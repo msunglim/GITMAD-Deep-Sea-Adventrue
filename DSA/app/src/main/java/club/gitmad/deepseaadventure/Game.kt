@@ -13,7 +13,7 @@ class Game(players: Array<Player>) {
     }
 
     fun inc_round() {
-        round++
+        round += 1
     }
 
 
